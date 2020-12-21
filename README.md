@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to 🐷 hyunwlee's Github 👋
+Welcome to 🐷 hyunwlee's Github 👋  
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ...  
 
-🖥 genesis of code (in 42)
+🖥 genesis of code (in 42)  
 🐣 algorithm study
